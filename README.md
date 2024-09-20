@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-fran%C3%A7a-311636297/)
 
 ![Gauss GitHub stats](https://github-readme-stats.vercel.app/api?username=SrGauss&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrGauss&layout=compact&theme=merko)
 
 ## 🖥️ Linguagens que uso no meu dia
 
