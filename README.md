@@ -1,7 +1,7 @@
 ### Olá! Seja bem vindo ao meu Github! 👋
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@sr_gauss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gustavo-frança-311636297)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-fran%C3%A7a-311636297/)
 
 ![Gauss GitHub stats](https://github-readme-stats.vercel.app/api?username=SrGauss&show_icons=true&theme=merko)
 
