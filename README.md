@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6EC207&height=120&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6EC207&size=35&center=true&vCenter=true&width=1000&lines=Ola!+👋;+Seja+Bem+vindo+ao+meu+Github!+😎👌;:%29)](https://git.io/typing-svg)
 
 ### ⚙️ Meu Github
@@ -6,8 +8,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-fran%C3%A7a-311636297/)
 
 ![Gauss GitHub stats](https://github-readme-stats.vercel.app/api?username=SrGauss&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrGauss&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🖥️ Linguagens que uso no meu dia
+
+
+## 🖥️ Linguagens que uso no meu dia!
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -16,6 +21,8 @@
                         <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
                                 <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div><br/><br/>
+
+
 
 ## 🔧 Ferramentas que uso:
 
@@ -28,3 +35,5 @@
 
 
 Estudando e Programando, para no futuro me tornar um ótimo Programador.
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6EC207&height=120&section=footer"/>
