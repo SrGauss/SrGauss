@@ -5,7 +5,7 @@
 
 ### ⚙️ Meu Github
 
-![sam-and-max-sam- -max](https://github.com/user-attachments/assets/5bdb236c-453c-483b-99a5-c70e3a7af525)
+
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@sr_gauss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoft/)
@@ -13,7 +13,7 @@
 
 ![Gauss GitHub stats](https://github-readme-stats.vercel.app/api?username=SrGauss&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrGauss&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
+![sam-and-max-sam- -max](https://github.com/user-attachments/assets/5bdb236c-453c-483b-99a5-c70e3a7af525)
 
 ## 🖥️ Linguagens que uso no meu dia!
 
