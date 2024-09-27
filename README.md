@@ -14,7 +14,6 @@
 ![Gauss GitHub stats](https://github-readme-stats.vercel.app/api?username=SrGauss&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrGauss&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-![sam-and-max-sam- -max](https://github.com/user-attachments/assets/5bdb236c-453c-483b-99a5-c70e3a7af525)
 
 ## 🖥️ Linguagens que uso no meu dia!
 
@@ -36,7 +35,6 @@
             <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
                 <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div><br/><br/>
-<br><br/>
 
 ## Estudando e Programando, para no futuro me tornar um ótimo Programador.
 
