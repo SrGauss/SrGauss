@@ -44,8 +44,9 @@
 
 ## Estudando e Programando, para no futuro me tornar um ótimo Programador.
 
-
-![f9576fca9fc8ef79976a1d6327bbe9ae](https://github.com/user-attachments/assets/0c6151d9-62c2-4080-9ca2-5d5bc7fbbbd8)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0c6151d9-62c2-4080-9ca2-5d5bc7fbbbd8" />
+</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6EC207&height=120&section=footer"/>
