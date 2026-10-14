@@ -11,7 +11,11 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gauss_41/)
 ##
 
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SrGauss&show_icons=true&count_private=true&hide_border=true&title_color=0F62FE&icon_color=0F62FE&text_color=A8C7FF&bg_color=0d1117" alt="GitHub Stats SrGauss"/> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrGauss&layout=compact&hide_border=true&title_color=0F62FE&text_color=A8C7FF&bg_color=0d1117" />
+</div>
 
 ## 🖥️ Linguagens que uso no meu dia!
 
